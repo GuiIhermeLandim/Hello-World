@@ -1,4 +1,3 @@
-# Primeiro Site em Html
-Primeiro repositório Comitado no GitHub!
+# Primeiro repositório Comitado no GitHub!
 
-Neste primeiro repositório, optei em planejar um site simples, com informações de contato, e um breve resumo sobre mim!
+Saudações a todos! Meu nome é Guilherme Alves, e pretendo utilizar frequentemente esta plataforma, para postagens de projetos pessoais, e exercícios feitos. 
